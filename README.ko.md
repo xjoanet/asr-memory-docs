@@ -24,6 +24,8 @@
 
 도구 22개의 목록은 [README.md](README.md#tools-22)에 있습니다. 에이전트 지침은 [AGENTS.ko.md](AGENTS.ko.md)입니다. `CLAUDE.md`, `AGENTS.md`, `GEMINI.md`에 붙여 넣어 씁니다. 에사 없이도 쓸 수 있습니다.
 
+채팅 앱(claude.ai 프로젝트 지침, ChatGPT 맞춤 지침)에는 11줄로 줄인 추천 지침을 쓰세요: https://asrmemory.com/docs.html#guide
+
 ## 데이터
 
 - 계정마다 기억 공간이 따로 있습니다. 배포할 때마다 계정 간 접근 시험을 돌리고, 하나라도 실패하면 배포를 멈춥니다.

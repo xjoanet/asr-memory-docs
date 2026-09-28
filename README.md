@@ -48,6 +48,8 @@ To see the project dashboard without signing up, open the demo: https://asrmemor
 
 [AGENTS.md](AGENTS.md) is a set of rules to paste into `CLAUDE.md`, `AGENTS.md` or `GEMINI.md` so long-running agents read memory at the start, save decisions as they go, and hand off work between tools. It also works without ASR. Korean: [AGENTS.ko.md](AGENTS.ko.md), Japanese: [AGENTS.ja.md](AGENTS.ja.md).
 
+For chat apps (claude.ai project instructions, ChatGPT custom instructions), use the short 11-line version: https://asrmemory.com/en/docs.html#guide
+
 ## Your data
 
 - Each account has its own memory space. Cross-account access tests run on every deployment, and the deployment stops if any fails.

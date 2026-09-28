@@ -24,6 +24,8 @@ ASR Memoryは、複数のAIツールで共有する記憶の保存先です。�
 
 22個のツール一覧は [README.md](README.md#tools-22) にあります。エージェント指針は [AGENTS.ja.md](AGENTS.ja.md) です。`CLAUDE.md`、`AGENTS.md`、`GEMINI.md` に貼り付けて使います。ASRなしでも使えます。
 
+チャットアプリ（claude.ai のプロジェクト指示、ChatGPT のカスタム指示）には、11行に絞ったおすすめの指針を使ってください: https://asrmemory.com/ja/docs.html#guide
+
 ## データ
 
 - アカウントごとに記憶の空間が分かれています。デプロイのたびにアカウント間アクセス試験を実行し、1件でも失敗すればデプロイを止めます。
